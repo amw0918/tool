@@ -2,7 +2,7 @@
 namespace Flower\Lily;
 class Lily {
 	public function say() {
-		echo 'hello lily3';
+		echo 'hello lily666';
 	}
 }
 ?>
